@@ -1,0 +1,19 @@
+{
+  "name": "fxstary",
+  "version": "1.0.0",
+  "description": "picgo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mjcfx/picgo.git"
+  },
+  "author": "fx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mjcfx/picgo/issues"
+  },
+  "homepage": "https://github.com/mjcfx/picgo#readme"
+}
